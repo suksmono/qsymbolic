@@ -1,4 +1,4 @@
 # qsymbolic
-## symbolic quantum computing 
-## Input: symbolic Hamiltonian input 
-## Output: ground states energies and configurations
+__symbolic quantum computing__ 
+__Input: symbolic Hamiltonian input__ 
+__Output: ground states energies and configurations__
