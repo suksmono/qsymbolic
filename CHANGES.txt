@@ -1,0 +1,8 @@
+# CHANGES.txt
+
+next todo list:
+#:done:#1. sort original variables 
+#2. skip if already si/qi
+#3. output state qi-> integer, instead of float
+#4. independent function to calculate Jij,hi from string_equation
+#5. ising coeffs for q-domain shall be replaced by qubo-coefficients
